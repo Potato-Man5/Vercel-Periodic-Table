@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}Element Identifier{% endblock %}
+{% block content %}
+
+<style>
+    .box {
+        width: 250px;
+        min-height: 250px;
+        border: 10px solid #9e10c5;
+        padding: 15px;
+        background-color: #ab1ad3;
+        color: white;
+        text-align: center;
+        margin: 20px auto;
+    }
+
+    .element-info {
+        margin-top: 20px;
+    }
+</style>
+
+<form method="POST">
+    <h3 align="center">Element Identifier</h3>
+    <div class="form-group">
+        <label for="period_number">Enter Period Number</label>
+        <input type="text" class="form-control" id="period_number" name="period_number"
+            placeholder="Enter period number here" />
+    </div>
+
+    <br>
+    <div class="form-group">
+        <label for="group_number">Enter Group Number</label>
+        <input type="text" class="form-control" id="group_number" name="group_number"
+            placeholder="Enter group number here" />
+    </div>
+
+    <br>
+    <button type="submit" class="btn btn-primary">
+        Identify Element
+    </button>
+</form>
+
+{% if element_data %}
+
+<div class="element-info">
+    <div class="box">
+        <h5>{{ element_data.atomic_number }}</h5>
+        <h1>{{ element_data.symbol }}</h1>
+        <h3>{{ element_data.name }}</h3>
+        <h5>{{ element_data.atomic_mass }} u</h5>
+    </div>
+
+    <h3>
+        The element is {{ element_data.name }} ({{ element_data.symbol }})
+    </h3>
+
+    <p>
+        <strong>Atomic Number:</strong>
+        {{ element_data.atomic_number }}
+    </p>
+    <p>
+        <strong>Atomic Mass:</strong>
+        {{ element_data.atomic_mass }} 
+    </p>
+    <p>
+        <strong>Common Uses:</strong>
+        {{ element_data.common_uses }}
+    </p>
+    <p>
+        <strong>Electron Configuration:</strong>
+        {{ element_data.electron_configuration }}
+    </p>
+    <p>
+        <strong>Ionization Energy:</strong>
+        {{ element_data.ionization_energy }} kJ/mol
+    </p>
+    <p>
+        <strong>Electron Affinity:</strong>
+        {{ element_data.electron_affinity }} kJ/mol
+    </p>
+    <p>
+        <strong>Atomic Radius:</strong>
+        {{ element_data.atomic_radius }} pm
+    </p>
+</div>
+
+{% endif %}
+
+{% endblock %}
