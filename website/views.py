@@ -114,7 +114,7 @@ elements = {
         "atomic_number": 3,
         "atomic_mass": 6.94,
         "common_uses": "The common uses for Lithium are Batteries, Ceramics and Glass, Lubricating Greases, Air Treatment, Pharmaceuticals",
-        "electron_configuration": "[He] 2s1",
+        "electron_configuration": "[He] 2s¹",
         "ionization_energy": 520,
         "electron_affinity": 59.6,
         "atomic_radius": 167
@@ -125,7 +125,7 @@ elements = {
         "atomic_number": 11,
         "atomic_mass": 22.990,
         "common_uses": "The common uses for Sodium are Food Additive, Chemical Manufacturing, Water Treatment, and Pharmaceuticals",
-        "electron_configuration": "[Ne] 3s1",
+        "electron_configuration": "[Ne] 3s¹",
         "ionization_energy": 496,
         "electron_affinity": 52.9,
         "atomic_radius": 190
@@ -136,7 +136,7 @@ elements = {
         "atomic_number": 19,
         "atomic_mass": 39.098,
         "common_uses": "The common uses for Potassium are Fertilizers, Food Additive, and Pharmaceuticals",
-        "electron_configuration": "[Ar] 4s1",
+        "electron_configuration": "[Ar] 4s¹",
         "ionization_energy": 419,
         "electron_affinity": 48.4,
         "atomic_radius": 243
@@ -147,7 +147,7 @@ elements = {
         "atomic_number": 37,
         "atomic_mass": 85.468,
         "common_uses": "The common uses for Rubidium are Atomic Clocks, Research, and Medical Applications",
-        "electron_configuration": "[Kr] 5s1",
+        "electron_configuration": "[Kr] 5s¹",
         "ionization_energy": 403,
         "electron_affinity": 46.9,
         "atomic_radius": 265
@@ -158,7 +158,7 @@ elements = {
         "atomic_number": 55,
         "atomic_mass": 132.905,
         "common_uses": "The common uses for Cesium are Atomic Clocks, Photoelectric Cells, and Medical Applications",
-        "electron_configuration": "[Xe] 6s1",
+        "electron_configuration": "[Xe] 6s¹",
         "ionization_energy": 376,
         "electron_affinity": 45.5,
         "atomic_radius": 298
@@ -169,7 +169,7 @@ elements = {
         "atomic_number": 87,
         "atomic_mass": 223,
         "common_uses": "The common uses for Francium are primarily in research and medical applications",
-        "electron_configuration": "[Rn] 7s1",
+        "electron_configuration": "[Rn] 7s¹",
         "ionization_energy": 380,
         "electron_affinity": 44,
         "atomic_radius": 348
@@ -181,7 +181,7 @@ elements = {
         "atomic_number": 4,
         "atomic_mass": 9.012,
         "common_uses": "The common uses for Beryllium are Aerospace Applications, Nuclear Reactors, and Electronics",
-        "electron_configuration": "[He] 2s2",
+        "electron_configuration": "[He] 2s²",
         "ionization_energy": 900,
         "electron_affinity": 0,
         "atomic_radius": 112
@@ -192,7 +192,7 @@ elements = {
         "atomic_number": 12,
         "atomic_mass": 24.305,
         "common_uses": "The common uses for Magnesium are Aerospace Applications, Fireworks, and Pharmaceuticals",
-        "electron_configuration": "[Ne] 3s2",
+        "electron_configuration": "[Ne] 3s²",
         "ionization_energy": 738,
         "electron_affinity": 0,
         "atomic_radius": 160
@@ -203,7 +203,7 @@ elements = {
         "atomic_number": 20,
         "atomic_mass": 40.078,
         "common_uses": "The common uses for Calcium are Bone Health, Food Additive, and Construction Materials",
-        "electron_configuration": "[Ar] 4s2",
+        "electron_configuration": "[Ar] 4s²",
         "ionization_energy": 590,
         "electron_affinity": 2.37,
         "atomic_radius": 197
@@ -214,7 +214,7 @@ elements = {
         "atomic_number": 38,
         "atomic_mass": 87.62,
         "common_uses": "The common uses for Strontium are Fireworks, Incandescent Lamps, and Medical Applications",
-        "electron_configuration": "[Kr] 5s2",
+        "electron_configuration": "[Kr] 5s²",
         "ionization_energy": 550,
         "electron_affinity": 5.03,
         "atomic_radius": 215
@@ -225,7 +225,7 @@ elements = {
         "atomic_number": 56,
         "atomic_mass": 137.327,
         "common_uses": "The common uses for Barium are Medical Imaging, Electronics, and Chemical Manufacturing",
-        "electron_configuration": "[Xe] 6s2",
+        "electron_configuration": "[Xe] 6s²",
         "ionization_energy": 503,
         "electron_affinity": 13.95,
         "atomic_radius": 222
@@ -236,7 +236,7 @@ elements = {
         "atomic_number": 88,
         "atomic_mass": 226,
         "common_uses": "The common uses for Radium are primarily in research and medical applications",
-        "electron_configuration": "[Rn] 7s2",
+        "electron_configuration": "[Rn] 7s²",
         "ionization_energy": 509,
         "electron_affinity": 9.65,
         "atomic_radius": 283
@@ -247,7 +247,7 @@ elements = {
         "atomic_number": 21,
         "atomic_mass": 44.956,
         "common_uses": "The common uses for Scandium are 3D Printing With Scalmalloy, Solid Oxide Fuel Cells, Nuclear Medicine and Cancer Imaging, Sporting Goods, Semiconductors and Electronics",
-        "electron_configuration": "[Ar] 3d1 4s2",
+        "electron_configuration": "[Ar] 3d¹ 4s²",
         "ionization_energy": 633,
         "electron_affinity": 18.1,
         "atomic_radius": 162
@@ -258,7 +258,7 @@ elements = {
         "atomic_number": 39,
         "atomic_mass": 88.906,
         "common_uses": "The common uses for Yttrium are LED Phosphors, Cancer Radiotherapy, Solid Oxide Fuel Cells, Nd:YAG Lasers, Microwave and Radar, Water Purification",
-        "electron_configuration": "[Kr] 4d1 5s2",
+        "electron_configuration": "[Kr] 4d¹ 5s²",
         "ionization_energy": 600,
         "electron_affinity": 29.6,
         "atomic_radius": 180
@@ -269,7 +269,7 @@ elements = {
         "atomic_number": 57,
         "atomic_mass": 138.905,
         "common_uses": "The common uses for Lanthanum are Batteries and Fuel Cells, Optical Glass, Catalysts, Carbon Arc Lamps",
-        "electron_configuration": "[Xe] 5d1 6s2",
+        "electron_configuration": "[Xe] 5d¹ 6s²",
         "ionization_energy": 538,
         "electron_affinity": 48,
         "atomic_radius": 187
@@ -280,7 +280,7 @@ elements = {
         "atomic_number": 89,
         "atomic_mass": 227,
         "common_uses": "The common uses for Actinium are (Prostate) Cancer Treatment, Thermoelectric generators, Radio Immunotherapy, Nuclear Medicine (Used to remove tumors)",
-        "electron_configuration": "[Rn] 6d1 7s2",
+        "electron_configuration": "[Rn] 6d¹ 7s²",
         "ionization_energy": 499,
         "electron_affinity": 33.8,
         "atomic_radius": 195
@@ -292,7 +292,7 @@ elements = {
         "atomic_number": 22,
         "atomic_mass": 47.867,
         "common_uses": "The common uses for Titanium are Engine parts, Heat exchangers, Reactors, Storage tanks, Jewelry, Sports Equipment",
-        "electron_configuration": "[Ar] 3d2 4s2",
+        "electron_configuration": "[Ar] 3d² 4s²",
         "ionization_energy": 659,
         "electron_affinity": 7.6,
         "atomic_radius": 147
@@ -303,7 +303,7 @@ elements = {
         "atomic_number": 40,
         "atomic_mass": 91.224,
         "common_uses": "The common uses for Zirconium are Plastic and Polymer Production, Dental Implants, Nuclear Reactors, Ceramics and Refractories (Ceramic Knives), Surgical Instruments",
-        "electron_configuration": "[Kr] 4d2 5s2",
+        "electron_configuration": "[Kr] 4d² 5s²",
         "ionization_energy": 640,
         "electron_affinity": 41.1,
         "atomic_radius": 160
@@ -314,7 +314,7 @@ elements = {
         "atomic_number": 72,
         "atomic_mass": 178.49,
         "common_uses": "The common uses for Hafnium are Computer Chips and Transistors, Nuclear Reactor Control Rods, Jet Engines and Superalloys, Plasma Cutting Torches, Optical Coatings, Plastic and Polymer Production",
-        "electron_configuration": "[Xe] 4f14 5d2 6s2",
+        "electron_configuration": "[Xe] 4f¹⁴ 5d² 6s²",
         "ionization_energy": 659,
         "electron_affinity": 17,
         "atomic_radius": 159
@@ -325,7 +325,7 @@ elements = {
         "atomic_number": 104,
         "atomic_mass": 267,
         "common_uses": "The common uses for Rutherfordium are mostly in studies like; (Nuclear Physics, heavier Metals, Behaviour of oter metals)",
-        "electron_configuration": "[Rn] 5f14 6d2 7s2",
+        "electron_configuration": "[Rn] 5f¹⁴ 6d² 7s²",
         "ionization_energy": 579,
         "electron_affinity": 0,
         "atomic_radius": 150
@@ -336,7 +336,7 @@ elements = {
         "atomic_number": 23,
         "atomic_mass": 50.942,
         "common_uses": "The common uses for Vanadium are strengthens steel, adds color to glass/ceramics/tiles, helps store wind and solar energy for electrical power grid, heat-resistant parts for jet engines and spacecraft.",
-        "electron_configuration": "[Ar] 3d3 4s2",
+        "electron_configuration": "[Ar] 3d³ 4s²",
         "ionization_energy": 651,
         "electron_affinity": 50.6,
         "atomic_radius": 134
@@ -347,7 +347,7 @@ elements = {
         "atomic_number": 41,
         "atomic_mass": 92.906,
         "common_uses": "The common uses for Niobium are oil and gas pipelines, bridges, and structural girders. used in automotive industry,  used in rocket nozzles and hypersonic systems.",
-        "electron_configuration": "[Kr] 4d4 5s1",
+        "electron_configuration": "[Kr] 4d⁴ 5s¹",
         "ionization_energy": 652,
         "electron_affinity": 86.1,
         "atomic_radius": 146
@@ -358,7 +358,7 @@ elements = {
         "atomic_number": 73,
         "atomic_mass": 180.948,
         "common_uses": "The common uses for Tantalum are smartphones, laptops, automotive systems, and digital cameras. is also used in hip replacements, cranial plates, pacemakers, and surgical mesh.",
-        "electron_configuration": "[Xe] 4f14 5d3 6s2",
+        "electron_configuration": "[Xe] 4f¹⁴ 5d³ 6s²",
         "ionization_energy": 761,
         "electron_affinity": 31,
         "atomic_radius": 146
@@ -369,7 +369,7 @@ elements = {
         "atomic_number": 105,
         "atomic_mass": 268,
         "common_uses": "Dubnium is used in scientific research.",
-        "electron_configuration": "[Rn] 5f14 6d3 7s2",
+        "electron_configuration": "[Rn] 5f¹⁴ 6d³ 7s²",
         "ionization_energy": 665,
         "electron_affinity": 0,
         "atomic_radius": 139
@@ -380,7 +380,7 @@ elements = {
     "atomic_number": 24,
     "atomic_mass": 51.996,
     "common_uses": "Chromium is used for shiny/chrome coatings on car parts, gives objects a shiny, protective surface, used to produce various industrial chemicals.",
-    "electron_configuration": "[Ar] 3d5 4s1",
+    "electron_configuration": "[Ar] 3d⁵ 4s¹",
     "ionization_energy": 653,
     "electron_affinity": 64.3,
     "atomic_radius": 128
@@ -391,7 +391,7 @@ elements = {
         "atomic_number": 42,
         "atomic_mass": 95.95,
         "common_uses": "Molybdenum is used in some electrical components, used where materials need to withstand very high heat, used as a catalyst in some chemical processes.",
-        "electron_configuration": "[Kr] 4d5 5s1",
+        "electron_configuration": "[Kr] 4d⁵ 5s¹",
         "ionization_energy": 684,
         "electron_affinity": 72.1,
         "atomic_radius": 139
@@ -402,7 +402,7 @@ elements = {
         "atomic_number": 74,
         "atomic_mass": 183.84,
         "common_uses": "Tungsten withstands very high temperatures, used to make very hard tools, used for heavy equipment where high strength and heat resistance are needed.",
-        "electron_configuration": "[Xe] 4f14 5d4 6s2",
+        "electron_configuration": "[Xe] 4f¹⁴ 5d⁴ 6s²",
         "ionization_energy": 770,
         "electron_affinity": 78.6,
         "atomic_radius": 139
@@ -413,7 +413,7 @@ elements = {
         "atomic_number": 106,
         "atomic_mass": 269,
         "common_uses": "Seaborgium is mainly used to study superheavy elements, used in very small amounts because it is highly radioactive and short-lived.",
-        "electron_configuration": "[Rn] 5f14 6d4 7s2",
+        "electron_configuration": "[Rn] 5f¹⁴ 6d⁴ 7s²",
         "ionization_energy": 757,
         "electron_affinity": 0,
         "atomic_radius": 132
