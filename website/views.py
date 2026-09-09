@@ -103,7 +103,7 @@ elements = {
         "atomic_number": 1,
         "atomic_mass": 1.008,
         "common_uses": "The common uses for Hydrogen are Fuel Cells, Rocket Fuel, Ammonia Production, Hydrogenation of Fats and Oils, Metal Production and Refining",
-        "electron_configuration": "1s1",
+        "electron_configuration": "1s¹",
         "ionization_energy": 1312,
         "electron_affinity": 72.8,
         "atomic_radius": 53
